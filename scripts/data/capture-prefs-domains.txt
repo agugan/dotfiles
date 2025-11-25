@@ -21,6 +21,7 @@ com.apple.AppleMediaServices
 com.apple.AppleMediaServices.notbackedup
 com.apple.AppleMultitouchMouse
 com.apple.AppleMultitouchTrackpad
+com.apple.appstore
 com.apple.AppStore
 com.apple.appstored
 com.apple.assistant
@@ -329,6 +330,7 @@ com.google.gmp.measurement.monitor
 com.googlecode.iterm2
 com.googlecode.iterm2.private
 com.googlecode.munki.ManagedSoftwareCenter
+com.jetbrains.pycharm
 com.jordanbaird.Ice
 com.lowtechguys.ZoomHider
 com.macpaw.site.theunarchiver
