@@ -1,5 +1,6 @@
 app.zen-browser.zen
 asc.onlyoffice.ONLYOFFICE
+Avatar Cache Index
 ch.protonvpn.mac
 com.0804Team.KeyClu
 com.abhishek.Clocker
@@ -13,6 +14,8 @@ com.apple.AccessibilityVisualsAgent
 com.apple.accounts.suggestions
 com.apple.accountsd
 com.apple.ActivityMonitor
+com.apple.AdLib
+com.apple.AdPlatforms
 com.apple.AMPLibraryAgent
 com.apple.amsengagementd
 com.apple.appkit.xpc.openAndSavePanelService
@@ -98,6 +101,7 @@ com.apple.gamecenter
 com.apple.gamed
 com.apple.GameOverlayViewService
 com.apple.generativepartnerservicesettings
+com.apple.GEO
 com.apple.gms.availability
 com.apple.helpd
 com.apple.helpviewer
@@ -122,9 +126,7 @@ com.apple.inputAnalytics.serverStats
 com.apple.inputmethod.ironwood
 com.apple.intents.intents-helper
 com.apple.ipTelephony
-com.apple.itunescloud
-com.apple.itunescloudd
-com.apple.itunesstored
+com.apple.java.util.prefs
 com.apple.Keyboard-Settings.extension
 com.apple.keyboardservicesd
 com.apple.keychainaccess
@@ -157,6 +159,7 @@ com.apple.ncprefs
 com.apple.Network-Settings.extension
 com.apple.NetworkExtensionSettingsUI.NESettingsUIExtension
 com.apple.networkserviceproxy
+com.apple.Notes
 com.apple.notificationcenterui
 com.apple.Notifications-Settings.extension
 com.apple.onetimepasscodes
@@ -284,6 +287,7 @@ com.apple.trackpad.twoFingerDoubleTapGesture
 com.apple.trackpad.twoFingerFromRightEdgeSwipeGesture
 com.apple.translationd
 com.apple.transparencyd
+com.apple.TV
 com.apple.UnifiedAssetFramework
 com.apple.universalaccess
 com.apple.universalaccessAuthWarning
@@ -316,9 +320,11 @@ com.google.Chrome
 com.google.Chrome.beta
 com.google.Chrome.canary
 com.google.gmp.measurement.monitor
+com.google.Keystone.Agent
 com.googlecode.iterm2
 com.googlecode.iterm2.private
 com.googlecode.munki.ManagedSoftwareCenter
+com.jetbrains.pycharm
 com.jgraph.drawio.desktop
 com.lowtechguys.ZoomHider
 com.macpaw.site.theunarchiver
@@ -342,6 +348,7 @@ com.usebruno.app
 com.utmapp.UTM
 com.visualstudio.code.oss
 com.vscodium.VSCodiumInsiders
+com.xykong.Markdown
 com.xykong.Markdown.QuickLook
 dev.zed.Zed
 dev.zed.Zed-Preview
@@ -362,6 +369,7 @@ org.mozilla.firefox
 org.mozilla.nightly
 org.mozilla.thunderbird-daily
 org.torproject.torbrowser
+org.yanex.marta
 pbs
 sharedfilelistd
 theboringteam.boringnotch
