@@ -129,6 +129,10 @@ export KEYBASE_PROFILES_REPO_NAME='profiles'
 # its docs/DESIGN.md § Remote naming is entirely outside this tool's purview).
 # export ENCRYPTED_HOME_REPO_URL='https://github.com/vraravam/home.git'
 # export ENCRYPTED_PROFILES_REPO_URL='https://github.com/vraravam/browser-profiles.git'
+# The github username where the setup scripts are downloaded from
+
+# Keybase username
+export KEYBASE_USERNAME='agugan'
 # --------------------------------------------------------------------------------
 
 # ---------- Env vars for basic/common setup (can be optionally changed) ---------
