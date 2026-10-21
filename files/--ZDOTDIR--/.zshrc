@@ -942,3 +942,6 @@ fi
 # to suppress their banners (they think they're nested when they're not).
 # Unsetting here ensures every new shell starts with a clean slate (defaults to 0).
 unset _DOTFILES_SCRIPT_DEPTH
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+export PATH="/Users/guganarumugam/.rd/bin:$PATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
